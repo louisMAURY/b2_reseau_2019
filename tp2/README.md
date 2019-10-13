@@ -17,10 +17,12 @@ Pour cette première partie nous allons utiliser la topologie ci-dessous:
 +------+ e0      +------+     e0 +------+
 ```
 Avec les adresses IP suivantes:
+
 | Machine  |     IP     |
 |----------|------------|
 | VPC1     | 10.2.1.1/24|
 | VPC2     | 10.2.1.2/24|
+
 ---
 
 Comme on peut le constater, le **VPC1** est connecté de son interface `e0` à l'interface `e0` du Switch **IOU1**.
