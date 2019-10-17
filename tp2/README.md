@@ -1,4 +1,4 @@
-Rendu Deuxième TP, Louis MAURY
+# Rendu Deuxième TP, Louis MAURY
 
 # I. Simplest setup
 
